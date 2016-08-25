@@ -1,0 +1,9 @@
+
+h2 {
+    text-align: center;
+}
+
+.form-horizontal .container {
+    padding-right: 300px;
+    padding-left: 300px;
+}
